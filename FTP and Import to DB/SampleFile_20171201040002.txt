@@ -1,0 +1,10 @@
+#FE-VERSION=aqnsnjdvnsvjk
+<SUBBEGIN
+	one=value1;
+	two=value2;
+	three=value3;
+	four=value4;
+	five=value5;
+	six=value6;
+	seven=value7;
+<SUBEND
